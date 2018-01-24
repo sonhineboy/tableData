@@ -1,4 +1,4 @@
-/*
+/*-
 // 公用css
 
 .table_box{ position: relative; overflow: hidden;}
